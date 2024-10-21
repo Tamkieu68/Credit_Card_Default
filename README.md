@@ -4,6 +4,11 @@ Credit_Card_Default
 ## Overview
 In this project, I explored the prediction of credit card default using various machine learning models. Key factors influencing default include gender, education level, credit limit, and age. Males tend to have a slightly higher default rate, while younger individuals and those with lower credit limits show a greater propensity for default. Education plays a significant role, particularly among university and graduate students.
 
+## Steps
+1. **Data Preprocessing**
+2. **EDA**
+3. **Modeling**
+
 ## Details
 In this project, I utilized three main sampling techniques: SMOTE, Undersampling, and Oversampling, along with four evaluation metrics: Accuracy, Precision, Recall, and F1-score. To predict credit card defaults, I applied basic machine learning models such as Logistic Regression, as well as more advanced models like Decision Tree, Random Forest, SVM, Gradient Boosting, and XGBoosting. 
 
